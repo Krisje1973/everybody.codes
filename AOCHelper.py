@@ -7,7 +7,6 @@ from queue import PriorityQueue
 from queue import Queue
 import heapq
 from math import inf
-import numpy as np
 from enum import Enum
 
 def open_file(filename) :
@@ -36,7 +35,7 @@ def readinput_lines_with_separator(filename,separator):
             input.append(val.strip()) 
     return input
 
-def readinput_as_pairs(filename):
+def readinput_arrays_by_newline(filename):
     return [[x for x in pair.splitlines()] for pair in open(filename).read().split("\n\n")]
 
 def readinput_lines(filename):   
