@@ -1,0 +1,3 @@
+Ardenkryth,Xyrimar,Rythanulth,Skargaz,Agnarvalir,Jalpyros,Raeljoris,Lutheon,Anorbryn,Orahgnar,Zyncalyx,Urakoth,Harnvynar,Mordax,Sylzorin,Vornxaril,Valyth,Draznix,Aergonn,Kalphor,Ardenvash,Larfal,Nyssadar,Xendcyth,Malithnarith,Tirpyxis,Palthzor,Phyrindor,Tazloris,Yndisis
+
+L25,R47,L13,R44,L26,R38,L32,R32,L36,R12,L45,R34,L15,R7,L8,R9,L36,R49,L20,R44,L5,R22,L5,R39,L5,R32,L5,R15,L5,R30,L5,R37,L5,R48,L5,R45,L5,R43,L5,R33,L36,R41,L20,R47,L21,R29,L6,R13,L16,R37,L49,R28,L41,R41,L38,R48,L40,R9,L27

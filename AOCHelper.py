@@ -8,7 +8,16 @@ from queue import Queue
 import heapq
 from math import inf
 from enum import Enum
+import itertools    
 
+class Quest(Enum):
+    q1_example = 1
+    q1_notes = 2
+    q2_example = 3
+    q2_notes = 4
+    q3_example = 5
+    q3_notes = 6
+    
 def open_file(filename) :
     return open(filename).read()
 
